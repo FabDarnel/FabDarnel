@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FabDarnel
 - 👀 I’m an Air Traffic Controller (ATC) interested in: datascience, AI applied in the field of Air Traffic Management (ATM), & robotics
-- 🌱 I’m currently learning: completing a Master Artificial Intelligence & Robotics
-- 💞️ I’m looking to collaborate on: I'm still trainsitioning from a beginner to an intermediate datascientist/python/robotics programmer
+- 🌱 I’m currently learning: Artificial Intelligence & Robotics stuffs
+- 💞️ I’m looking to collaborate on: I'm still learning datascientist/python/robotics programmer
 - 📫 How to reach me ... email me: atc_work@outlook.com
 
 <!---
